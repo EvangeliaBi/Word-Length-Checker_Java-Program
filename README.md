@@ -28,6 +28,7 @@ Instructions for use:
 • java alpha.Alpharithmitiko
 5. Type the word or phrase when prompted. The program displays the result.
 
+
 In the demo:
 
 • The program reads a line from the user with Scanner.nextLine(), so it never receives null in normal use.
@@ -35,6 +36,7 @@ In the demo:
 • The length calculation is done with s.length(), so spaces and Unicode characters are counted as they appear in the string.
 
 • Each example shows the input the user types and the expected output.
+
 
 Improvement suggestions:
 
